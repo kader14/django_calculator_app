@@ -1,5 +1,4 @@
-# Creating a calculator app in Django web application
+# إنشاء تطبيق آلة حاسبة في تطبيق الويب Django
+في هذا البرنامج التعليمي، سوف نتعلم أطر تطوير الواجهة الأمامية الثلاثة الرئيسية: HTML وCSS وJavaScript من خلال إنشاء تطبيق آلة حاسبة. أخيرًا، قمنا بتغليفها باستخدام Django كواجهة خلفية.
 
-In this tutorial, we will learn the three main frontend development frameworks: HTML, CSS, and JavaScript by building a calculator app. Finally, we wrap it with Django as the backend.
-
-👉 Full Tutorial: https://blog.finxter.com/how-i-created-a-calculator-app-using-django/
+👉 البرنامج التعليمي الكامل:
